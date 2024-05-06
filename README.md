@@ -77,5 +77,6 @@ If `--factory` is present, `BINARY_NATURE` is set to 1 instead of 0.
 [TheAirBlow](https://github.com/theairblow) for Syndical itself \
 [nlscc](https://github.com/nlscc) for SamLoader
 
+
 ## Licence
 [Mozilla Public License Version 2.0](https://github.com/TheAirBlow/Syndical/blob/main/LICENCE)
